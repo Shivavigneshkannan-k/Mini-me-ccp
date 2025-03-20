@@ -8,7 +8,7 @@ import 'pdfjs-dist/build/pdf.worker';
 const PdfExtractor = () => {
     const dispatch = useDispatch();
     const notes = useSelector((state) => state.data.notes);
-    const aiNotes = useSelector((state) => state.data.aiNotes);
+    // const aiNotes = useSelector((state) => state.data.aiNotes);
     const [loading, setLoading] = useState(false);
     const [generating, setGenerating] = useState(false);
 
@@ -62,7 +62,7 @@ const PdfExtractor = () => {
         <div className="min-h-screen bg-gradient-to-br from-yellow-300 to-pink-400 flex items-center justify-center p-4">
             <div className="bg-white shadow-2xl rounded-[30px] border-4 border-pink-500 p-6 max-w-2xl w-full cartoon-box">
                 <h2 className="text-4xl font-extrabold text-center text-pink-600 mb-6 animate-bounce">
-                    🎨 Cartoon PDF Extractor
+                    🎨 Mini Me - The AI Tutor
                 </h2>
 
                 <label className="cursor-pointer flex items-center justify-center gap-3 bg-yellow-500 text-white px-6 py-3 rounded-full text-lg font-bold shadow-lg hover:bg-yellow-600 transition-all duration-300 border-4 border-yellow-700">
@@ -103,12 +103,12 @@ const PdfExtractor = () => {
                     </div>
                 )}
 
-                {aiNotes.length > 0 && (
+                {/* {aiNotes.length > 0 && (
                     <div className="mt-6 bg-green-100 p-4 rounded-xl shadow-md overflow-y-auto max-h-96 border-4 border-green-500 cartoon-box">
                         <h3 className="text-2xl font-bold text-green-600 mb-2">📚 AI-Generated Notes:</h3>
                         <pre className="whitespace-pre-wrap text-sm text-gray-800">{aiNotes[0]}</pre>
                     </div>
-                )}
+                )} */}
 
                 {/* Cartoon Box Shadow Effect */}
                 <style>

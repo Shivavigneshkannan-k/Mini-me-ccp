@@ -4,8 +4,10 @@ import Practice  from "./Components/Practice"; // Import Practice Page
 import PdfInput  from "./Components/pdfInput"; // Import Practice Page
 import Body from "./Components/Body";
 import Notes from "./Components/Notes";
+import PracticePdf from "./Components/PracticePdt";
 import appStore from "./utils/appStore";
 import { Provider } from "react-redux";
+import PdfNotes from "./Components/PdfNote";
 
 const routes = createBrowserRouter([
   {
@@ -13,8 +15,8 @@ const routes = createBrowserRouter([
     element: <Body />,
     children: [
       { path: "/", element: <InputPage /> },
-      { path: "/notes", element: <Notes /> },
-      { path: "/practice", element: <Practice /> },  // Added Practice Page Route
+      { path: "/notes", element: <PdfNotes /> },
+      { path: "/practice", element: <PracticePdf /> },  // Added Practice Page Route
       { path: "/pdf", element: <PdfInput /> },  // Added Practice Page Route
     ]
   }
