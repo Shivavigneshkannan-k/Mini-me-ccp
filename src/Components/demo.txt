@@ -1,0 +1,36 @@
+Literature refers to.
+
+[ 1 ] K. S. Nwana wrote "Intelligent tutoring systems: an overview" in Artificial Intelligence Review, vol. 4, no. 4, pages. 251–277, 1990.
+
+[1] B. Woolf, *Building Intelligents Interactive Tutors: Student-Centred Techniques for Transforming e-Learning*, Morgan Kaufmann Publishers Inc. 2007 United States, San Francisco, CA.
+
+[3] s. Sundararajan, C. S. V. Nitta, "Designing engaging smart tutoring systems in an age of cognitive computing," *IBM Journal of Research and Development*, vol. 59, no. six volumes. 10:1--11:9, Nov. 2015,
+
+[4] DJ. "AI in CAI: An artificial-intelligence approach to computer- assisted instruction." IEEE Transfinancial Transactions on Man-Machine Systems, Volume 11., no. four volumes pub. Dec. 190–202. 1970 (revised 1999)
+
+[5] F. Khatib et al., "Crystal structure of a monomeric retroviral protease solved by protein folding game players," *Nature Structural and Molecular Biology*, vol. 19, 2011. 8 267. 18, no. ten pages in volume 1175–1177, September 2011--)
+
+[6] t. G. Geller, "DARPA Shredder Challenge solved," *Commununikations of the American Computer Society*, vol. 55: no. Volume 8 pages Aug. 16–17. Once 2012 rolls around,
+
+
+[8] A. thomaz L.; c. Breazeal, "Teachable robots: Understanding human teaching behavior to build more effective robot learners,"; Artificial Intelligence, vol. 172; no. 6 pages, pp. 717-738, 2008.
+
+A. C. Graesser, K. vanLehn, C. Ros, P. W. Jordan and D. Harter, "Intelligent tutoring systems with conversational dialogue," *AI Magazine*, vol. 12. An intelligent tutoring system with conversational dialogue. 22 not. 4 pages, pp. Dec. 39–51. 2001.
+
+[8] O. Popescu C. Torrey, K. He Koedinger, V祖 Aleven, and A. Ogan in *Proc., "Evaluating the effectiveness of a tutorial dialogue approach for self-explanation". 8th untranslated international其中 Confeitura. on Intelligent Tutoring Systems* 2004, pp. 443–454 of 3--314.00
+
+[11] n. Maharjan R. banjade, and V. In *Proc. Automated appraisal of open-ended student responses in tutorial dialogues using Gaussian mixture models,e thirtieth Once. Florida Artificial Intelligence Research Society Conf.*, May 22–24, 2017, Marco Island, FL, USA, pp. A hundred and three--98--103.
+
+R. [12] Square Dé Honestly Discovery 2020, With Love & Justice S. S. Marwaniya, T. Dhamecha and B. Sengupta, in *Proc. Source frequently inquired from student query forums, 10th Int. Conf. on Educational Information Mining*, 2017, pp. two hundred fifty-six to five hundred eleven
+
+[13] J. - w. Ahn, P. A. Watson, M. Chang, S. Sundararajan, T. Ma, Together with N. Mukhi and S. Prabhu, "Wizard-of-Oz question answering: Cognitive hint support for Wizard-of-Oz," *Proc. 20th International. Renewность on artificial intelligence*, 2017, vol. 630--632, 633--635.
+
+[15] M. Ludwig; S. Nitta, "Cognitive learning goes to school with IBM and Sesame Street," [Online]. Found at: https://www.ibm.com/bogs/think/2017/06/sesame-street/. [Accessed: Mar. 12] 18, 2025 [两0五] 。
+
+[17] V. Elangkambaram R. Mittal, P. Surya Dey, R. An Kokku K. Sinha and S. V. Nitta, "Tell Me More: Digital Eyes to the Physical World for Early Childhood Learning,", in *Proc. tenth Int. Conf. on Educational Data Mining* 2017.
+
+[16] S. Sundararajan and S. K. V. Nitta, "Augmenting Classrooms with AI for Personalized Education," in *Proc. 2018 Int. IEEE Conf. Calgary, AB, Canada; April Sedona 2014 Acoustics, Speech and Signal Processing (ICASSP) 2018, pages. 17916–17920.
+
+[17] K. Riley, D. Forbes- Litman, S. Silliman and J. Tetreault, "Comparing Synthesized versus Pre-Recorded Tutor Speech in an Intelligent Tutoring Spoken Dialogue System," in *Proc. 2006 Florida Artificial Intelligence Research Society Conf.* Melbourne, FL, USA, May 2006.
+
+Understanding the evolution and effects of AI-driven tutoring systems, especially those including voice interaction and note generation capabilities, depends on these references, which offer a solid basis. 
