@@ -1,6 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import InputPage from "./Components/InputPage";
 import Practice  from "./Components/Practice"; // Import Practice Page
+import PdfInput  from "./Components/pdfInput"; // Import Practice Page
 import Body from "./Components/Body";
 import Notes from "./Components/Notes";
 import appStore from "./utils/appStore";
@@ -14,6 +15,7 @@ const routes = createBrowserRouter([
       { path: "/", element: <InputPage /> },
       { path: "/notes", element: <Notes /> },
       { path: "/practice", element: <Practice /> },  // Added Practice Page Route
+      { path: "/pdf", element: <PdfInput /> },  // Added Practice Page Route
     ]
   }
 ]);

@@ -10,7 +10,7 @@ const Body = () => {
           <Link to="/" className="px-4 py-2 rounded-md hover:bg-[#FFD60A] hover:text-[#001D3D] transition">Home</Link>
           <Link to="/notes" className="px-4 py-2 rounded-md hover:bg-[#FFD60A] hover:text-[#001D3D] transition">Notes</Link>
           <Link to="/practice" className="px-4 py-2 rounded-md hover:bg-[#FFD60A] hover:text-[#001D3D] transition">Practice</Link>
-          <Link to="/profile" className="px-4 py-2 rounded-md hover:bg-[#FFD60A] hover:text-[#001D3D] transition">Profile</Link>
+          <Link to="/pdf" className="px-4 py-2 rounded-md hover:bg-[#FFD60A] hover:text-[#001D3D] transition">Pdf Input</Link>
         </nav>
       </div>
 
